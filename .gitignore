@@ -1,5 +1,5 @@
 node_modules/
-dist/
+# dist/
 /index.js
 package-lock.json
 # /package.json

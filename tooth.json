@@ -1,0 +1,20 @@
+{
+  "format_version": 1,
+  "tooth": "github.com/lgc-LLSEDev/YetAnotherCustomGetMap",
+  "version": "0.2.0",
+  "dependencies": {},
+  "information": {
+    "name": "YetAnotherCustomGetMap",
+    "description": "另一个更易用的 CustomMap 辅助插件！",
+    "author": "student_2333 <lgc2333@126.com>",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/lgc-LLSEDev/YetAnotherCustomGetMap"
+  },
+  "placement": [
+    {
+      "source": "dist/*",
+      "destination": "plugins/nodejs/yet-another-custom-get-map/*"
+    }
+  ],
+  "possession": ["plugins/YetAnotherCustomGetMap/"]
+}
