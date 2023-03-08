@@ -3,7 +3,7 @@
 # YetAnotherCustomGetMap
 
 另一个更易用的 [CustomMap](https://github.com/yhzx233/CustomMap) 辅助插件！  
-下载本插件请去 [Releases](https://github.com/lgc2333/LLSEPlugins/releases)
+下载本插件请去 [Releases](https://github.com/lgc-LLSEDev/YetAnotherCustomGetMap/releases)
 
 本插件前置：[CustomMap](https://github.com/yhzx233/CustomMap)
 
@@ -41,7 +41,7 @@ YetAnotherCustomGetMap -> YACGM，你也可以在配置文件中更改命令名�
 
 ## 使用
 
-1. 先去 [Releases](https://github.com/lgc2333/LLSEPlugins/releases) 下载本插件，放在插件文件夹下，开服
+1. 先去 [Releases](https://github.com/lgc-LLSEDev/YetAnotherCustomGetMap/releases) 下载本插件，放在插件文件夹下，开服
 2. 插件加载成功后会在插件文件夹内生成 `YetAnotherCustomGetMap/img` 文件夹，把图片文件放进里面就可以在插件菜单里看到了
 
 当服务端内安装有 YoyoRobot 时，插件会与其对接，并且提供一个新的机器人指令 `上传地图画`  
