@@ -1,0 +1,12 @@
+node_modules/
+dist/
+/index.js
+package-lock.json
+# /package.json
+.vscode/
+private/
+test.*
+*.llplugin
+/yoyorobot/
+*.min.*
+pnpm-lock.yaml
