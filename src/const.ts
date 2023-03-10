@@ -4,7 +4,11 @@ import { join } from 'path';
 import { description, version } from '../package.json';
 
 export const pluginName = 'YetAnotherCustomGetMap';
-export const pluginVersion = version.split('.').map((v) => Number(v));
+export const pluginVersion = version.split('.').map((v) => Number(v)) as [
+  number,
+  number,
+  number
+];
 export const pluginDescription = description;
 export const pluginExtra = {
   Author: 'student_2333',
