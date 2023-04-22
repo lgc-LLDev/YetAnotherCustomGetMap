@@ -1,0 +1,4 @@
+[submodule "NbsPlayer"]
+	branch = master
+[submodule "Airdrop"]
+	branch = master
