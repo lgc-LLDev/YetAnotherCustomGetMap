@@ -21,23 +21,23 @@
 
 **插件指令**  
 YetAnotherCustomGetMap -> YACGM，你也可以在配置文件中更改命令名称  
-![1](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043648.png)
+![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043648.png)
 
 **图片列表**  
-![2](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043714.png)
+![2](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043714.png)
 
 **选择文件后图片处理方式选择表单**  
 可选 宽高、处理方式（裁剪/拉伸/保留白边）、处理后水平垂直位置、缩放图片使用的插值法（最近邻/双线性/双三次/埃尔米特/贝塞尔）  
-![3](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043823.png)  
-![4](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043828.png)
+![3](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043823.png)  
+![4](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043828.png)
 
 **获取地图演示**  
 受到 [CustomGetMap](https://www.minebbs.com/resources/customgetmap-custommap.4050/) 插件的启发（因为那个插件一次给全部地图很蛋疼），我把插件的给地图逻辑设计成了当空出主手时才会按顺序给一张，还加上了当前已给予的地图信息的提示，这样当拼一些大地图的时候就不会那么蛋疼了  
 如果你搞乱了顺序，可以随时使用 `yacgm jump <地图序号>` 跳转到某一张地图  
-![5](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043901.png)  
-![6](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044107.png)  
-![7](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044339.png)
-![8](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044247.png)
+![5](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-043901.png)  
+![6](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044107.png)  
+![7](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044339.png)
+![8](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/Screenshot_20221123-044247.png)
 
 ## 使用
 
@@ -46,7 +46,7 @@ YetAnotherCustomGetMap -> YACGM，你也可以在配置文件中更改命令名�
 
 当服务端内安装有 YoyoRobot 时，插件会与其对接，并且提供一个新的机器人指令 `上传地图画`  
 使用方法见下图  
-![Alt text](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/QQ%E5%9B%BE%E7%89%8720230126011744.png)
+![Alt text](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/YetAnotherCustomGetMap/QQ%E5%9B%BE%E7%89%8720230126011744.png)
 
 ## 指令
 
